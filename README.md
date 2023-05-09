@@ -27,9 +27,17 @@
 2. Increase product sales by at least 28.78% in 2022.
 
 
+## Codes 
+https://alfianinda.github.io/Shopping-Cart-Data-Analysis/
+
+
+## Results
+https://alfianinda.github.io/Shopping-Cart-Data-Analysis/Shopping_Cart_Data_Analysis.pdf
+
+
 ## Developer
 
 > **NUR INNA ALFIANINDA**
 
-> ni.alfianinda@gmail.com
+> http://cv.alamazed.com/
 
