@@ -28,10 +28,12 @@
 
 
 ## Codes 
+
 https://alfianinda.github.io/Shopping-Cart-Data-Analysis/
 
 
 ## Results
+
 https://alfianinda.github.io/Shopping-Cart-Data-Analysis/Shopping_Cart_Data_Analysis.pdf
 
 
@@ -39,5 +41,5 @@ https://alfianinda.github.io/Shopping-Cart-Data-Analysis/Shopping_Cart_Data_Anal
 
 > **NUR INNA ALFIANINDA**
 
-> http://cv.alamazed.com/
+> https://cv.alamazed.com/data/
 
