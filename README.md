@@ -41,5 +41,5 @@ https://alfianinda.github.io/Shopping-Cart-Data-Analysis/Shopping_Cart_Data_Anal
 
 > **NUR INNA ALFIANINDA**
 
-> https://cv.alamazed.com/data/
+> ni.alfianinda@gmail.com
 
